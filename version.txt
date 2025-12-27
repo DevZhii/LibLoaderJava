@@ -1,4 +1,4 @@
-1.0.0
-- Fix crash MyHeroID 47
-- Improve auto targeting monster
-- Optimize cooldown logic
+1.0.1
+• Fix crash MyHeroID 47
+• Improve auto targeting monster
+• Optimize cooldown logic
