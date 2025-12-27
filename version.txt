@@ -2,3 +2,4 @@
 • Fix crash
 • Add Esp Player/Monster
 • Fix Device ID Changer
+• Bypass Anti Cheat
