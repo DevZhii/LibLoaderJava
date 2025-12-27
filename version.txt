@@ -2,3 +2,4 @@
 • Fix crash MyHeroID 47
 • Improve auto targeting monster
 • Optimize cooldown logic
+• Fix Drone View
