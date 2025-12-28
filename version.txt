@@ -1,4 +1,4 @@
-1.0.5
+1.0.6
 • Fix crash
 • Add Esp Player/Monster
 • Fix Device ID Changer
